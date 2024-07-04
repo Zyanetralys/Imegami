@@ -7,7 +7,8 @@
              width="300" 
              height="225">
             </p>
-<section>
+<br>
+    <section>
             <p>🌱 I'm learning and practicing in the field of Systems and Cybersecurity.</p>
             <p>💬 You can find me on <a href="https://www.linkedin.com/in/mjmartinezleo/" class="highlight">LinkedIn</a> if you want to connect. Let's keep in touch.</p>
 </section>
