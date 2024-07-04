@@ -3,6 +3,11 @@
         <header>
             <h1>Hello, I'm Asthraia! 🌟</h1>
         </header>
+        </head>
+    <img src="https://64.media.tumblr.com/363e208a9750d68760ad5fb5a34c94c1/tumblr_p9r2smNK6v1rwlghso1_r1_1280.gif" 
+         alt="GIF Favorito" 
+         width="300" 
+         height="225">
         <section>
             <p>🌱 I'm learning and practicing in the field of Systems and Cybersecurity.</p>
             <p>💬 We can keep in touch.</p>
@@ -24,14 +29,6 @@
         </footer>
     </div>
 </body>
-</html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <img src="https://64.media.tumblr.com/363e208a9750d68760ad5fb5a34c94c1/tumblr_p9r2smNK6v1rwlghso1_r1_1280.gif" 
-         alt="GIF Favorito" 
-         width="300" 
-         height="225">
