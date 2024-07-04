@@ -10,8 +10,7 @@
          height="225">
         <section>
             <p>🌱 I'm learning and practicing in the field of Systems and Cybersecurity.</p>
-            <p>💬 We can keep in touch.</p>
-            <p>📫 You can also find me on <a href="https://www.linkedin.com/in/mjmartinezleo/" class="highlight">LinkedIn</a> if you want to connect.</p>
+            <p>💬 You can find me on <a href="https://www.linkedin.com/in/mjmartinezleo/" class="highlight">LinkedIn</a> if you want to connect. Let's keep in touch.</p>
         </section>
         <section>
             <h2>Currently learning</h2>
