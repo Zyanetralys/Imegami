@@ -4,9 +4,11 @@
             <h1>Hello, I'm Asthraia! 🌟</h1>
         </header>
         </head>
+<div style="display: flex; justify-content: center;">
     <img src="https://raw.githubusercontent.com/Asthraia/profile/main/4f1n.gif" 
          width="300" 
          height="225">
+</div>
         <section>
             <p>🌱 I'm learning and practicing in the field of Systems and Cybersecurity.</p>
             <p>💬 You can find me on <a href="https://www.linkedin.com/in/mjmartinezleo/" class="highlight">LinkedIn</a> if you want to connect. Let's keep in touch.</p>
