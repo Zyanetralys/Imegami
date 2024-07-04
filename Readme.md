@@ -5,7 +5,6 @@
         </header>
         </head>
     <img src="https://raw.githubusercontent.com/Asthraia/profile/main/4f1n.gif" 
-         alt="GIF Favorito" 
          width="300" 
          height="225">
         <section>
