@@ -1,6 +1,6 @@
 <body>
-<header>
-            <h1>Hello, I'm Asthraia! 🌟</h1>
+<header style="text-align: center;">
+    <h1 align="center">Hello, I'm Asthraia! 🌟</h1>
 </header>
             <p align="center">
             <img src="https://raw.githubusercontent.com/Asthraia/profile/main/4f1n.gif" 
