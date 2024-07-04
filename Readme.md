@@ -15,7 +15,7 @@
         </section>
         <section>
             <h2>Currently learning</h2>
-            <p>🌍 Improving my skills in <span class="highlight">💻 Windows | Kali | Python | SQL </span>.</p>
+            <p>🌍 Improving my skills in <span class="highlight">💻 Windows | Kali | Python | SQL </span></p>
         </section>
         <section>
             <h2>Collaborations and contributions</h2>
