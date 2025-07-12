@@ -1,4 +1,3 @@
-<h1 align="center">👩‍💻 María Jesús Martínez Leo</h1>
 <h3 align="center">≼ Imegami ≽</h3>
 
 <p align="center">
