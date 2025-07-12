@@ -39,6 +39,8 @@ Ciberseguridad**: SOC, Threat Hunting, Pentesting básico, Firewalls, Nmap, Meta
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imegami&show_icons=true&theme=default" />
+  </p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imegami&layout=compact&theme=default" />
 </p>
 
