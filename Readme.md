@@ -13,10 +13,13 @@
 
 ## 🛠️ Stack Técnico
 
-**Languages**: Python · Bash · SQL · PowerShell · JavaScript  
-**Infra**: Linux · Windows · VMware · VirtualBox · Django · Flask  
-**Cyber**: SOC · Threat Hunting · Pentesting · Firewall · OpenVPN · Kali Linux  
-**Cloud & Tools**: Google Suite · GPO · Nmap · Metasploit · Hashcat
+**Lenguajes y Scripting**: Python, Bash, PowerShell, SQL.
+**Sistemas Operativos**: Linux (Kali, Ubuntu), Windows Server, Windows.
+**Virtualización**: VMware, VirtualBox.
+Ciberseguridad**: SOC, Threat Hunting, Pentesting básico, Firewalls, Nmap, Metasploit, Wireshark.
+**Herramientas y Gestión**: GPO, Google Workspace, Django, Flask.
+**Cloud**: Google Cloud Platform , automatización.
+
 
 ---
 
