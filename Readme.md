@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Stack Técnico
+## Stack Técnico
 
 **Lenguajes y Scripting**: Python, Bash, PowerShell, SQL.
 **Sistemas Operativos**: Linux (Kali, Ubuntu), Windows Server, Windows.
@@ -23,7 +23,7 @@ Ciberseguridad**: SOC, Threat Hunting, Pentesting básico, Firewalls, Nmap, Meta
 
 ---
 
-## 🧰 Skills Visuales
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -35,7 +35,7 @@ Ciberseguridad**: SOC, Threat Hunting, Pentesting básico, Firewalls, Nmap, Meta
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imegami&show_icons=true&theme=default" />
@@ -44,7 +44,7 @@ Ciberseguridad**: SOC, Threat Hunting, Pentesting básico, Firewalls, Nmap, Meta
 
 ---
 
-## 🎮 Juegos Coop
+## Juegos Coop
 
 <p align="center">
   <img src="https://img.shields.io/badge/Helldivers_2-grey?style=flat-square&logo=steam&logoColor=white" />
