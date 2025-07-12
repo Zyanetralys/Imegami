@@ -14,10 +14,15 @@
 ## Stack Técnico
 
 **Lenguajes y Scripting**: Python, Bash, PowerShell, SQL.
+
 **Sistemas Operativos**: Linux (Kali, Ubuntu), Windows Server, Windows.
+
 **Virtualización**: VMware, VirtualBox.
-Ciberseguridad**: SOC, Threat Hunting, Pentesting básico, Firewalls, Nmap, Metasploit, Wireshark.
+
+**Ciberseguridad**: SOC, Threat Hunting, Pentesting básico, Firewalls, Nmap, Metasploit, Wireshark.
+
 **Herramientas y Gestión**: GPO, Google Workspace, Django, Flask.
+
 **Cloud**: Google Cloud Platform , automatización.
 
 
