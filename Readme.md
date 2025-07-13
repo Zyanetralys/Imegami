@@ -87,13 +87,13 @@ I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and no
 ## 💼 Professional Background
 
 ### **Current Role**
-**Selection Specialist** at ATM Grupo Maggioli (2023 - Present)
+**Selection Specialist** at a public sector digital transformation team (2023 - Present)
 - Recruiting IT professionals across multiple technical roles
 - Deep understanding of cybersecurity and IT market demands
 - Experience with technical interview processes
 
 ### **Previous Experience**
-- **Systems Technician** - Sermicro & Guadalinfo (2021-2023)
+- **Systems Technician** - Various organizations (2021-2023)
 - **Psychology Professional** - Various organizations (2018-2020)
 - **HR & Recruitment Specialist** - Multiple companies (2014-2023)
 
