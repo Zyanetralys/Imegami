@@ -281,7 +281,7 @@ I'm eager to connect with cybersecurity professionals, developers, and anyone in
   <i>Currently planting my cybersecurity tree! 🌱🛡️</i>
 </p>
 
-[![A badass engineer](https://img.shields.io/badge/🐍%20My%20Engineer%20Sis-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iceyami/)  
+[![A badass engineer](https://img.shields.io/badge/🐍%20IceYami-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iceyami/)  
 <a href="https://www.linkedin.com/in/iceyami/">
 > **iceYami** – Sharp mind, clean code, and a heart as strong as her logic. If you get to work with her, you're lucky.
 
