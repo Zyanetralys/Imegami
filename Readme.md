@@ -168,7 +168,6 @@ Penetration Testing        █████████████████�
 <p align="center">
   <img src="https://img.shields.io/badge/Helldivers_2-Democracy_Spreader-FFA500?style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/League_of_Legends-Summoner-1E90FF?style=for-the-badge&logo=riot-games&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-Capture_The_Flag-FF6B35?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
 ### 🏃‍♀️ Other Interests
