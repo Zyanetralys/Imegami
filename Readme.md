@@ -18,7 +18,6 @@
 I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and now **IT Systems Administration and Cybersecurity**. After successfully completing my technical education, I'm building practical experience and applying my theoretical knowledge to real-world scenarios.
 
 - 🎓 **Education**: Psychology, HR, MBA, and recent IT/Cybersecurity degrees
-- 🔄 **Career Transition**: Successfully transitioned from HR to Cybersecurity & IT
 - 📜 **Recent Achievements**: 
   - ✅ Higher Degree in Network Systems Administration (2025)
   - ✅ Master in Cybersecurity (2025)
