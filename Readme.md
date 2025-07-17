@@ -220,10 +220,6 @@ I'm eager to connect with cybersecurity professionals, developers, and anyone in
 ## 📊 Detailed Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Imegami&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imegami&theme=tokyonight" alt="Profile Summary" />
 </p>
 
