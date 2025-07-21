@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=EF4444,3B82F6,6366F1,0EA5E9,F43F5E&lines=Imegami;Cybersecurity;Pentesting;Python;Bash" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=EF4444,3B82F6,6366F1,0EA5E9,F43F5E&lines=Zyanetralys;Cybersecurity;Pentesting;Python;Bash" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Imegami">
-    <img src="https://img.shields.io/badge/GitHub-Imegami-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Zyanetralys">
+    <img src="https://img.shields.io/badge/GitHub-Zyanetralys-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/mjmartinezleo/">
     <img src="https://img.shields.io/badge/LinkedIn-mjmartinezleo-blue?style=for-the-badge&logo=linkedin" />
@@ -194,23 +194,23 @@ I'm eager to connect with cybersecurity professionals, developers, and anyone in
   <a href="https://www.linkedin.com/in/mjmartinezleo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/Imegami">
+  <a href="https://stackoverflow.com/users/Zyanetralys">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
 </p>
 
 ### 📱 Find Me On Learning Platforms
 <p align="center">
-  <a href="https://app.hackthebox.com/profile/Imegami">
+  <a href="https://app.hackthebox.com/profile/Zyanetralys">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
-  <a href="https://tryhackme.com/p/Imegami">
+  <a href="https://tryhackme.com/p/Zyanetralys">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://www.codewars.com/users/Imegami">
+  <a href="https://www.codewars.com/users/Zyanetralys">
     <img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Imegami">
+  <a href="https://leetcode.com/Zyanetralys">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -220,17 +220,17 @@ I'm eager to connect with cybersecurity professionals, developers, and anyone in
 ## 📊 Detailed Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imegami&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imegami&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imegami&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=tokyonight" alt="Repos Per Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imegami&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imegami&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zyanetralys&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zyanetralys&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
 
 ---
@@ -238,12 +238,12 @@ I'm eager to connect with cybersecurity professionals, developers, and anyone in
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imegami&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyanetralys&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imegami&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Imegami?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Zyanetralys&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
 </p>
 
 ---
